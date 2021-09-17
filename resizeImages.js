@@ -40,7 +40,7 @@ async function resize(fileName, size) {
 
   // Convert to 1024 / Fullsize
   sharp('./images/' + fileName)
-  .resize(newImage.width, newImage.height)
+  //.resize(newImage.width)
   .toFile(`${newImage.location}/${fileName}`, (err, info) => { 
     if (err) return 'error'
   });
