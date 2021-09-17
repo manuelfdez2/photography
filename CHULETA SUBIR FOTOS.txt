@@ -1,0 +1,5 @@
+pego la foto en photography/images
+ejecuto un cmd y pongo el comando npm run resize
+pongo el comando git add .
+pongo el comando git commit -m "subiendo fotos nuevas"
+pongo el comando git push -u origin
