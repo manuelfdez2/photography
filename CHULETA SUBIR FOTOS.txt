@@ -14,3 +14,5 @@ f
 
 para cambiar la ruta en el cmd por ruta actual
 G:
+
+web: https://manuelfdez2.github.io/photography/
