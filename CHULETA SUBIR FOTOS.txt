@@ -11,3 +11,6 @@ siglas fotos:
 p
 r
 f
+
+para cambiar la ruta en el cmd por ruta actual
+G:
