@@ -16,3 +16,6 @@ para cambiar la ruta en el cmd por ruta actual
 G:
 
 web: https://manuelfdez2.github.io/photography/
+
+token
+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
